@@ -12,5 +12,5 @@ Follow the steps below if you would like to recreate this app locally on your pe
 5. Open app.R and click "Run App"
 6. At this point a window should open with the app running
 7. Viola! Now you can play with the app
-### Data Source
+## Data Source
 Data used for this project is publically available and can be found [here](https://data.world/henritechcity/ai-world-mapping)
