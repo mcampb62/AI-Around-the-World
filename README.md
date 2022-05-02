@@ -1,3 +1,4 @@
-## AI-Around-the-World
+# AI-Around-the-World
 ### Authors: Brandon Vermeer, Elena Sarandria, Matt Campbell
-R Shiny app used to visualize the growing prevalence of artificial intelligence.
+<div></div>
+This app was created to visualize the rising prevalence of artificial intelligence within the past two decades. 
