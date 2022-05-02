@@ -5,5 +5,5 @@ This app was created to visualize the rising prevalence of artificial intelligen
 You can view the app [here](www.google.com) 
 ### Recreating this App
 Follow the steps below if you would like to recreate this app locally on your personal machine. 
-<l1> foo bar
-  <l2> fooo barrr
+1. foo bar
+2. fooo barr
