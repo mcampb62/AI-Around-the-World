@@ -2,7 +2,7 @@
 ## Authors: Brandon Vermeer, Elena Sarandria, Matt Campbell
 This app was created to visualize the rising prevalence of artificial intelligence within the past two decades. Artificial intelligence is quite the buzzword in technology circles today and this app allows you to get a glimpse of how much this sector has grown in recent years.
 
-You can view the app [here](www.google.com) 
+You can view the app [here](https://bvermeer.shinyapps.io/AI_Around_the_World/) 
 ## Recreating this App
 Follow the steps below if you would like to recreate this app locally on your personal machine
 1. Download all files by clicking Code > Download ZIP
