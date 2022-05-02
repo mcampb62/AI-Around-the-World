@@ -1,6 +1,6 @@
 # AI-Around-the-World
 ## Authors: Brandon Vermeer, Elena Sarandria, Matt Campbell
-This app was created to visualize the rising prevalence of artificial intelligence within the past two decades.
+This app was created to visualize the rising prevalence of artificial intelligence within the past two decades. Artificial intelligence is quite the buzzword in technology circles today and this app allows you to get a glimpse of how much this sector has grown in recent years.
 
 You can view the app [here](www.google.com) 
 ## Recreating this App
